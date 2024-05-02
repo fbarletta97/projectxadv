@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1714645390,
+        "first_name": "Morris",
+        "last_name": "Cottafava",
+        "gender": "Male",
+        "age": "77"
+    },
+    {
+        "id": 1714645418,
+        "first_name": "Domenica",
+        "last_name": "Bianchi",
+        "gender": "Female",
+        "age": "55"
+    },
+    {
+        "id": 987654321,
+        "first_name": "Sophia",
+        "last_name": "Garcia",
+        "gender": "Female",
+        "age": "25"
+    },
+    {
+        "id": 987611322,
+        "first_name": "Ethan",
+        "last_name": "Johnson",
+        "gender": "Male",
+        "age": "32"
+    },
+    {
+        "id": 987654323,
+        "first_name": "Isabella",
+        "last_name": "Martinez",
+        "gender": "Female",
+        "age": "40"
+    },
+    {
+        "id": 987654324,
+        "first_name": "Mason",
+        "last_name": "Brown",
+        "gender": "Male",
+        "age": "45"
+    },
+    {
+        "id": 987654325,
+        "first_name": "Ava",
+        "last_name": "Jones",
+        "gender": "Female",
+        "age": "22"
+    },
+    {
+        "id": 987654326,
+        "first_name": "Liam",
+        "last_name": "Garcia",
+        "gender": "Male",
+        "age": "30"
+    },
+    {
+        "id": 987654327,
+        "first_name": "Emma",
+        "last_name": "Rodriguez",
+        "gender": "Female",
+        "age": "28"
+    },
+    {
+        "id": 987654328,
+        "first_name": "Noah",
+        "last_name": "Lopez",
+        "gender": "Male",
+        "age": "35"
+    },
+    {
+        "id": 987654329,
+        "first_name": "Olivia",
+        "last_name": "Hernandez",
+        "gender": "Female",
+        "age": "50"
+    },
+    {
+        "id": 987654330,
+        "first_name": "William",
+        "last_name": "Gonzalez",
+        "gender": "Male",
+        "age": "48"
+    }
+]
